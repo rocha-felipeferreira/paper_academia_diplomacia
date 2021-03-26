@@ -21,7 +21,7 @@ How Brazilian academy – specialized in international relations – used the co
 
 ### Visual Gallery (Sample)
 
-Mentions to Latin America minus South America (Mean)             |  Mean by Each Period
+Mentions to Latin America minus South America (Mean)             |  Comparison of Mean for Each Period
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/34004529/112669950-13ba6a80-8e3f-11eb-9509-8381aade44f2.png)  |  ![](https://user-images.githubusercontent.com/34004529/112669959-161cc480-8e3f-11eb-9cc4-26fde87665ea.png)
 
