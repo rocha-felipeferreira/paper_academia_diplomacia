@@ -14,6 +14,7 @@ How Brazilian academy – specialized in international relations – used the co
 ### Datasource
 - [Revista Brasileira de Política Internacional](https://www.scielo.br/revistas/rbpi/iaboutj.htm)
 - [Contexto Internacional](https://www.scielo.br/revistas/cint/iaboutj.htm)
+- [Download the Corpus used in this paper](https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/ZVPJSP/CDHIWV&version=1.0)
 
 ### Tools & Techniques
 - Content Analysis
